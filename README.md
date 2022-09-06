@@ -1,24 +1,19 @@
-# seleStia
+# celeStia
   A simple website created or GDSC Recruitments 2022.
 
 
-## Contributors
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/fal3n-4ngel">
-            <img src="https://avatars.githubusercontent.com/u/79042374?v=4" width="100;" alt="fal3n-4ngel"/>
-            <br />
-            <sub><b>Adithya Krishnan</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ice-weasel">
-            <img src="https://avatars.githubusercontent.com/u/93714446?v=4" width="100;" alt="ice-weasel"/>
-            <br />
-            <sub><b>Abhishek Raman</b></sub>
-        </a>
-    </td></tr>
-   
-</table>
-<!-- readme: contributors -end -->
+## About
+   Celestia is a intergalatic travel agency....
+   We can make you reach the farthest points in the universe and we try our best to return you back in one piece (99.9 percent success rate)
+
+ 
+ ```markdown   
+# Team Members
+ 1. Angel T John (org ,social)
+ 2. Devanarayan  (org,social)
+ 3. Nandana Biju Nair (design,org)
+ 4. Abhishek raman  (org,tech)
+ 5. Adithya Krishnan (tech,org)
+
+
+```
