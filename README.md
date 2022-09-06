@@ -1,4 +1,5 @@
 # celeStia
+  <img src="[https://avatars.githubusercontent.com/u/76699273?v=4](https://github.com/fal3n-4ngel/celeStia/blob/main/assets/images/logo.png?raw=true)" >
   A simple website created or GDSC Recruitments 2022.
 
 
